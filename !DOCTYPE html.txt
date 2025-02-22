@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Computer Store</h1>
+    </header>
+    <section class="products">
+        <div class="product">
+            <img src="computer1.jpg" alt="Gaming PC">
+            <h2>Gaming PC</h2>
+            <p>High-performance gaming computer with RTX 4090.</p>
+            <span>$2499</span>
+            <button>Buy Now</button>
+        </div>
+        <div class="product">
+            <img src="computer2.jpg" alt="Workstation PC">
+            <h2>Workstation PC</h2>
+            <p>Perfect for professionals and content creators.</p>
+            <span>$1899</span>
+            <button>Buy Now</button>
+        </div>
+    </section>
+</body>
+</html>
